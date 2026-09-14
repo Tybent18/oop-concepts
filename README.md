@@ -42,6 +42,13 @@ g++ -std=c++17 -Wall -Wextra -pedantic animal_inheritance.cpp -o animal_inherita
 - When does polymorphism simplify client code?
 - How do Java and C++ express related object models differently?
 
+## Technical report
+
+- [Read: Object-Oriented Abstraction in Java and C++](docs/object-oriented-abstraction-java-cpp.md)
+- [Download the publication PDF](docs/object-oriented-abstraction-java-cpp.pdf)
+
+The report maps claims to repository artifacts, defines an evidence-maturity model, documents limitations, and provides a reproducible development roadmap.
+
 ## Foundation portfolio
 
 This repository is part of a five-repository learning path:
