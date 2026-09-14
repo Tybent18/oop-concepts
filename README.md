@@ -22,8 +22,10 @@ Two compact examples showing how object-oriented design organizes shared behavio
 Java:
 
 ```bash
-javac shape_area_calculator.java
-java shape_area_calculator
+mkdir -p /tmp/oop-demo
+cp shape_area_calculator.java /tmp/oop-demo/Program.java
+javac /tmp/oop-demo/Program.java
+java -cp /tmp/oop-demo Program
 ```
 
 C++:
